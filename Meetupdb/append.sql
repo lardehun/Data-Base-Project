@@ -1,0 +1,3 @@
+USE Meetdb;
+
+ALTER TABLE meetup ADD(Race VARCHAR(4) NOT NULL);

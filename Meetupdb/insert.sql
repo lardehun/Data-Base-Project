@@ -1,3 +1,5 @@
+USE meetdb;
+
 INSERT INTO meetup(Start,Location,Topic,Description) values ('2016-01-01 12:00:00', 'Sajopetri', 'Ganajaszas', 'bring ganaj');
 INSERT INTO meetup(Start,Location,Topic,Description) values ('2016-01-11 16:40:00', 'Miskolc', 'Programming', 'be cool');
 INSERT INTO meetup(Start,Location,Topic,Description) values ('2016-01-21 14:00:00', 'Amsterdam', 'Studying', 'bring a lot of money lol');
